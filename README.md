@@ -19,7 +19,7 @@ All of them share a single purpose: **to turn information into impact**.
 
 ## 🔬 Featured Experiments
 
-### 🧮 [Pricing Optimization (Machine Learning)]
+### 🧮 [Pricing Optimization (Machine Learning)](https://github.com/LunAI-dev/Pricing_Optimization)
 A dynamic pricing system that models room rates based on seasonality, occupancy, and historical performance.  
 Built with regression algorithms and custom feature engineering to maximize margin and demand balance.  
 
