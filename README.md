@@ -2,15 +2,15 @@
 
 Welcome to my **Data Science Lab**; the place where data turns into systems, models, and sometimes... unexpected discoveries.
 
-I work at the intersection of **data engineering, machine learning, and deep learning**, building solutions that don’t just predict, but *understand* and *adapt*.  
-Most of what you’ll find here started as an idea that got out of hand — and then became something useful.
+I work at the intersection of **data engineering, machine learning, deep learning, and CNN**, building solutions that don’t just predict, but *understand* and *adapt*.  
+Most of what you’ll find here started as an idea that got out of hand; and then became something useful.
 
 ---
 
 ## ⚗️ What’s This Lab About
 
 This isn’t a “portfolio.”  
-It’s a living collection of experiments, models, and analytics pipelines — each born from real-world challenges I’ve faced in production environments.  
+It’s a living collection of experiments, models, and analytics pipelines, each born from real-world challenges I’ve faced in production environments.  
 
 Some projects aim to forecast performance, others optimize pricing or detect biometric patterns.  
 All of them share a single purpose: **to turn information into impact**.
@@ -33,13 +33,13 @@ Combines ARIMA, Prophet, and tree-based methods for robust short-term and long-t
 
 ### 🔍 [Customer Churn Prediction (Retention Analytics)]
 A predictive model to estimate churn probability and recommend retention strategies.  
-Trained with XGBoost, explained with SHAP — because transparency is just as important as accuracy.  
+Trained with XGBoost, explained with SHAP; because transparency is just as important as accuracy.  
 
 ---
 
 ### 🧠 [Signature & Biometric Recognition (Deep Learning)]
 CNN-based models for signature and biometric recognition.  
-Developed with PyTorch and deployed using Docker and Keras — optimized for inference speed and scalability.  
+Developed with PyTorch and deployed using Docker and Keras, optimized for inference speed and scalability.  
 
 ---
 
@@ -57,7 +57,7 @@ Developed with PyTorch and deployed using Docker and Keras — optimized for inf
 
 I see data science as applied curiosity.  
 Every dataset hides a pattern; every anomaly, a story; every model, a reflection of how we think.  
-My work is driven by a mix of logic, experimentation, and a bit of obsession for clean systems that *actually work in production.*
+My work is driven by a mix of logic, experimentation, and a bit of obsession for chaos systems that *actually work in production.*
 
 I prefer **clarity over complexity**, and **results over buzzwords**.  
 But I’ll still enjoy a good debate about loss functions over coffee.
@@ -70,7 +70,7 @@ If you’re working on:
 - real-world ML and DL systems,
 - brainlike CNN pipeline,
 - production-ready pipelines,
-- or just trying to make data behave better —
+- or just trying to make data behave better
 
 ...I’m interested.  
 Open to collaborations that mix science, software, and science reasoning.
