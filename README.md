@@ -25,6 +25,12 @@ Built with regression algorithms and custom feature engineering to maximize marg
 
 ---
 
+### 🤖 [RAG Q&A Bot (Local Document Question Answering)](https://github.com/LunAI-dev/Rag_doc_QA_engine)
+A local Retrieval-Augmented Generation system for PDF question answering, designed for privacy and offline use.
+Combines FAISS-based vector search, semantic embeddings, and a quantized LLM to provide fast, contextually grounded answers through a fully local Gradio interface.
+
+---
+
 ### 📈 [Business Forecasting (Time Series)]
 A time series pipeline for predicting revenue and operational KPIs.  
 Combines ARIMA, Prophet, and tree-based methods for robust short-term and long-term forecasts.  
