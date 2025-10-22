@@ -43,7 +43,7 @@ Trained with XGBoost, explained with SHAP; because transparency is just as impor
 
 ---
 
-### 🧠 [Signature & Biometric Recognition (Deep Learning)](https://github.com/LunAI-dev/ForgeryDetection_ResDense)
+### 🧠 [Signature & Biometric Recognition (CNN)](https://github.com/LunAI-dev/ForgeryDetection_ResDense)
 CNN-based models for signature and biometric recognition.  
 Developed with PyTorch and deployed using Docker and Keras, optimized for inference speed and scalability.  
 
