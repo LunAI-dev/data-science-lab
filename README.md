@@ -31,7 +31,7 @@ Combines FAISS-based vector search, semantic embeddings, and a quantized LLM to 
 
 ---
 
-### 📈 [Business Forecasting (Time Series)]
+### 📈 [Timeseries_forecast](https://github.com/LunAI-dev/Timeseries_forecast)
 A time series pipeline for predicting revenue and operational KPIs.  
 Combines ARIMA, Prophet, and tree-based methods for robust short-term and long-term forecasts.  
 
